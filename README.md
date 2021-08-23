@@ -2,7 +2,7 @@
 
 **Application Demo Video (3 mins)**
 [Demo Video Link](https://drive.google.com/file/d/1P-T3v-KZYItNxvvdegwLu4KQg1sOvYw8/view?usp=sharing)
-<img src="https://i.ibb.co/Y32hPGv/productoverviewgif.gif">
+![gif of productoverview](https://media.giphy.com/media/RCowlBbpOezVtNNvGS/giphy.gif)
 ---
 **Overview**
 
@@ -54,13 +54,17 @@ Our application allows the user to click through products and styles to add to t
 Our application uses React, Express, Axios, jQuery,  webpack, and babelrc mainly. The developer needs node installed and would just need to run an npm install and then run the npm commands to start webpack and the server. The developer would also need their own config files such as a GitHub token and an imgBB key, in order to use the image upload function.
 
 1) Install all packages by running the following commands in your terminal.
-`npm install`
-
+```
+npm install
+```
 2) Start the server.
-`npm run server`
-
+```
+npm run server
+```
 3) On a separate terminal, run webpack.
-`npm run webpack`
+```
+npm run webpack
+```
 
 4) Rename the `example.config.js` file to `config.js`
 
