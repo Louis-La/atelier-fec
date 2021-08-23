@@ -2,7 +2,8 @@
 
 **Application Demo Video (3 mins)**
 [Demo Video Link](https://drive.google.com/file/d/1P-T3v-KZYItNxvvdegwLu4KQg1sOvYw8/view?usp=sharing)
-![gif of productoverview](https://media.giphy.com/media/RCowlBbpOezVtNNvGS/giphy.gif)
+---
+[![gif of productoverview](https://media.giphy.com/media/RCowlBbpOezVtNNvGS/giphy.gif)](https://drive.google.com/file/d/1P-T3v-KZYItNxvvdegwLu4KQg1sOvYw8/view?usp=sharing)
 ---
 **Overview**
 
