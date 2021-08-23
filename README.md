@@ -2,7 +2,8 @@
 
 **Application Demo Video (3 mins)**
 [Demo Video Link](https://drive.google.com/file/d/1P-T3v-KZYItNxvvdegwLu4KQg1sOvYw8/view?usp=sharing)
----
+
+
 [![gif of productoverview](https://media.giphy.com/media/RCowlBbpOezVtNNvGS/giphy.gif)](https://drive.google.com/file/d/1P-T3v-KZYItNxvvdegwLu4KQg1sOvYw8/view?usp=sharing)
 ---
 **Overview**
@@ -22,7 +23,7 @@ Given a wireframe design, our group of three software engineering students had t
 
 *Hack Reactor Cohort - RPP29*
 
-*Group - Manchego*
+Group - Manchego
 
 * Louis La - Product Overview Module
 * Isaac Kim - Questions & Answers Module
