@@ -23,7 +23,7 @@ Given a wireframe design, our group of three software engineering students had t
 
 *Hack Reactor Cohort - RPP29*
 
-Group - Manchego
+Group Name - Manchego
 
 * Louis La - Product Overview Module
 * Isaac Kim - Questions & Answers Module
@@ -90,3 +90,8 @@ These are screenshots of the LightHouse audit results (taken locally) for deskto
 * Login/User creation - Store user data associated to a certain user
 * Database integration with user data via MongoDB
 * Adding security certificate to allow for ‘https’ access
+
+---
+**Wireframe design & Finished Product**
+
+![wireframe](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/WireframeAndBusinessDoc/ProductOverviewWireFrameComparison.png)
