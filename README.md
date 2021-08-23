@@ -2,7 +2,7 @@
 
 **Application Demo Video (3 mins)**
 [Demo Video Link](https://drive.google.com/file/d/1P-T3v-KZYItNxvvdegwLu4KQg1sOvYw8/view?usp=sharing)
-![alt text](https://i.ibb.co/Y32hPGv/productoverviewgif.gif)
+<img src="https://i.ibb.co/Y32hPGv/productoverviewgif.gif">
 ---
 **Overview**
 
