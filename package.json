@@ -1,0 +1,58 @@
+{
+  "name": "atelier",
+  "version": "1.0.0",
+  "description": "FEC",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test",
+    "webpack": "webpack --mode development --watch",
+    "server": "nodemon server/index.js",
+    "testproduct": "jest test/ProductOverview.test.js",
+    "testquestions": "jest test/QuestionsAnswers.test.js",
+    "testreviews": "jest test/RatingsReviews.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FEC-Manchego/Atelier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FEC-Manchego/Atelier/issues"
+  },
+  "homepage": "https://github.com/FEC-Manchego/Atelier#readme",
+  "dependencies": {
+    "@types/jest": "^26.0.24",
+    "ajax": "^0.0.4",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "chai": "^4.3.4",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "eslint": "^7.32.0",
+    "eslint-config-hackreactor": "github:reactorcore/eslint-config-hackreactor",
+    "express": "^4.17.1",
+    "image-to-blob": "^0.2.0",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "multer": "^1.4.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-img-zoom": "^0.1.0",
+    "react-moment": "^1.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/plugin-transform-runtime": "^7.15.0",
+    "@babel/preset-env": "^7.14.7",
+    "@babel/preset-react": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "jest": "^27.0.6",
+    "jsdom": "16.7.0",
+    "jsdom-global": "3.0.2",
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  }
+}

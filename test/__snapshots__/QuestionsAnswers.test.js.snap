@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Each Component renders correctly AddToCart renders correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Each Component renders correctly AddToCart renders correctly 2`] = `ShallowWrapper {}`;
+
+exports[`Each Component renders correctly AddToCart renders correctly 3`] = `ShallowWrapper {}`;
+
+exports[`Each Component renders correctly AddToCart renders correctly 4`] = `ShallowWrapper {}`;
+
+exports[`Each Component renders correctly AddToCart renders correctly 5`] = `ShallowWrapper {}`;
+
+exports[`Each Component renders correctly AddToCart renders correctly 6`] = `ShallowWrapper {}`;
+
+exports[`Each Component renders correctly AddToCart renders correctly 7`] = `ShallowWrapper {}`;
+
+exports[`Each Component renders correctly AddToCart renders correctly 8`] = `ShallowWrapper {}`;
+
+exports[`Each Component renders correctly ProductInformation renders correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Each Component renders correctly StyleSelector renders correctly 1`] = `ShallowWrapper {}`;

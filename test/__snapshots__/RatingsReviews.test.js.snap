@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reviews should be true that Reviews component exists 1`] = `ShallowWrapper {}`;
