@@ -1,7 +1,8 @@
 # Project Atelier | Hack Reactor Front-end Capstone
 
 **Application Demo Video (3 mins)**
-[Demo Video Link](https://drive.google.com/file/d/1GkncRLSr4gJ6SqRkvX-jTrm1gU-W8X27/view?usp=sharing)
+[Demo Video Link](https://drive.google.com/file/d/1P-T3v-KZYItNxvvdegwLu4KQg1sOvYw8/view?usp=sharing)
+![alt text](https://i.ibb.co/Y32hPGv/productoverviewgif.gif)
 ---
 **Overview**
 
@@ -19,6 +20,7 @@ Given a wireframe design, our group of three software engineering students had t
 **Team Members**
 
 *Hack Reactor Cohort - RPP29*
+
 *Group - Manchego*
 
 * Louis La - Product Overview Module
@@ -41,10 +43,10 @@ Our application allows the user to click through products and styles to add to t
 * The Ratings & Reviews module will allow viewing and submission of reviews for the product selected.
 * This component extends the ability to write, read, and browse through reviews for the current product.
 
-![alt text](https://github.com/FEC-Manchego/Atelier/blob/main/screenshots/ProductOverview.png?raw=true)
-![alt text](https://github.com/FEC-Manchego/Atelier/blob/main/screenshots/RelatedProducts.png?raw=true)
-![alt text](https://github.com/FEC-Manchego/Atelier/blob/main/screenshots/QuestionsAnswers.png?raw=true)
-![alt text](https://github.com/FEC-Manchego/Atelier/blob/main/screenshots/RatingsReviews.png?raw=true)
+![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/ProductOverview.png)
+![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/RelatedProducts.png)
+![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/QuestionsAndAnswers.png)
+![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/RatingsAndReviews.png)
 
 ---
 **Installation**
@@ -70,10 +72,10 @@ http://localhost:3000/
 ---
 **LightHouse Audit Results**
 
-These are screenshots of the LightHouse audit results (taken locally) for both desktop and mobile.
+These are screenshots of the LightHouse audit results (taken locally) for desktop.
+* screenshot of the results taken for mobile version is included in the repo
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/SpeedTestsScreenshots/LightHouseAuditDesktop.png)
 
 ---
 **Roadmap - future enhancements**
