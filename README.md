@@ -86,14 +86,15 @@ http://localhost:3000/
 **LightHouse Audit Results**
 
 These are screenshots of the LightHouse audit results (taken locally) for desktop.
-* screenshot of the results taken for mobile version is included in the repo
 
 Page performance goals:
 * Time to First Paint: 0.8 seconds
 * Time to First Meaningful Paint: 2.0 seconds
 * Time to Interactive: 2.5 seconds
 
-![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/SpeedTestsScreenshots/LightHouseAuditDesktop.png)
+![desktop](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/SpeedTestsScreenshots/LightHouseAuditDesktop.png)
+
+* [Mobile Version Screenshot Link](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/SpeedTestsScreenshots/LightHouseAuditMobile.png)
 
 ---
 **Roadmap - future enhancements**
