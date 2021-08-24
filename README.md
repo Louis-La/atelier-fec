@@ -105,3 +105,7 @@ Page performance goals:
 * Adding security certificate to allow for ‘https’ access
 
 ---
+
+
+[Link to Original Repo](https://github.com/FEC-Manchego/Atelier)
+[Link to FEC Progress Journal](https://docs.google.com/document/d/19bOfRtRev8ql3cPVswLChUbmsh9APpTyDkXEkTKhvFg/edit?usp=sharing)
