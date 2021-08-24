@@ -15,6 +15,7 @@ Given a wireframe design, our group of three software engineering students had t
 ***Table of Contents***
 * Team Members
 * Description
+* Wireframe design & Finished Product (Overview Module)
 * Installation
 * LightHouse Audit Results
 * Roadmap
@@ -45,10 +46,15 @@ Our application allows the user to click through products and styles to add to t
 * The Ratings & Reviews module will allow viewing and submission of reviews for the product selected.
 * This component extends the ability to write, read, and browse through reviews for the current product.
 
-![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/ProductOverview.png)
-![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/RelatedProducts.png)
-![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/QuestionsAndAnswers.png)
-![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/RatingsAndReviews.png)
+![product overview component](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/ProductOverview.png)
+![related products component](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/RelatedProducts.png)
+[Questions & Answers Screenshot Link](https://drive.google.com/file/d/1Rchka4OMjUognCv3MwobskHrvEwxBQef/view?usp=sharing)
+[Ratings & Reviews Screenshot Link](https://drive.google.com/file/d/1A28eU5CArZtWi7UuVLrLoFR0wghoDS8g/view?usp=sharing)
+
+---
+**Wireframe design & Finished Product (Overview Module)**
+
+![wireframe](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/WireframeAndBusinessDoc/ProductOverviewWireFrameComparison.png)
 
 ---
 **Installation**
@@ -81,6 +87,11 @@ http://localhost:3000/
 These are screenshots of the LightHouse audit results (taken locally) for desktop.
 * screenshot of the results taken for mobile version is included in the repo
 
+Page performance goals:
+* Time to First Paint: 0.8 seconds
+* Time to First Meaningful Paint: 2.0 seconds
+* Time to Interactive: 2.5 seconds
+
 ![alt text](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/SpeedTestsScreenshots/LightHouseAuditDesktop.png)
 
 ---
@@ -92,6 +103,3 @@ These are screenshots of the LightHouse audit results (taken locally) for deskto
 * Adding security certificate to allow for ‘https’ access
 
 ---
-**Wireframe design & Finished Product**
-
-![wireframe](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/WireframeAndBusinessDoc/ProductOverviewWireFrameComparison.png)
