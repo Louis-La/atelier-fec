@@ -49,6 +49,7 @@ Our application allows the user to click through products and styles to add to t
 ![product overview component](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/ProductOverview.png)
 ![related products component](https://github.com/Louis-La/atelier-front-end-capstone-project/blob/main/screenshots/RelatedProducts.png)
 [Questions & Answers Screenshot Link](https://drive.google.com/file/d/1Rchka4OMjUognCv3MwobskHrvEwxBQef/view?usp=sharing)
+
 [Ratings & Reviews Screenshot Link](https://drive.google.com/file/d/1A28eU5CArZtWi7UuVLrLoFR0wghoDS8g/view?usp=sharing)
 
 ---
