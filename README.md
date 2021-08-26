@@ -1,10 +1,10 @@
 # Project Atelier | Hack Reactor Front-end Capstone
 
 **Application Demo Video (3 mins)**
-[Demo Video Link](https://drive.google.com/file/d/1P-T3v-KZYItNxvvdegwLu4KQg1sOvYw8/view?usp=sharing)
+[Demo YouTube Video Link](https://www.youtube.com/watch?v=HoB-lyneOLU)
 
 
-[![gif of productoverview](https://media.giphy.com/media/RCowlBbpOezVtNNvGS/giphy.gif)](https://drive.google.com/file/d/1P-T3v-KZYItNxvvdegwLu4KQg1sOvYw8/view?usp=sharing)
+[![gif of productoverview](https://media.giphy.com/media/RCowlBbpOezVtNNvGS/giphy.gif)](https://www.youtube.com/watch?v=HoB-lyneOLU)
 ---
 **Overview**
 
